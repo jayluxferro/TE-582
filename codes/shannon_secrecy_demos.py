@@ -1,5 +1,7 @@
-import math, random, numpy as np
-from collections import Counter, defaultdict
+import math
+import random
+import numpy as np
+from collections import Counter
 
 ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 ALEN = len(ALPHABET)
